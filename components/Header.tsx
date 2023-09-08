@@ -137,8 +137,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
               <Button
                 onClick={handleLogout}
                 className="bg-white
-                px-6 py-2
-                    font-medium"
+                px-6 py-2"
               >
                 Se déconnecter
               </Button>
